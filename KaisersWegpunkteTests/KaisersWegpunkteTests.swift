@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import KaisersWegpunkte
+@testable import Wegpunkte
 
 class KaisersWegpunkteTests: XCTestCase {
 

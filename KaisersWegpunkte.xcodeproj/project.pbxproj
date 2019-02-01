@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6793AE5A21E38C11009BB30C /* ding.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6793AE5921E38C11009BB30C /* ding.mp3 */; };
+		6793AE5C21E39945009BB30C /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6793AE5B21E39945009BB30C /* FirstViewController.swift */; };
+		67EB4F0D21E39E40008E1F13 /* Station.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EB4F0C21E39E40008E1F13 /* Station.swift */; };
+		67EB4F0F21E4EB2F008E1F13 /* Pin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EB4F0E21E4EB2F008E1F13 /* Pin.swift */; };
+		67EB4F1121E78DF9008E1F13 /* Toast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EB4F1021E78DF9008E1F13 /* Toast.swift */; };
 		BF4C80A321C7957E0038AD0B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF4C80A221C7957E0038AD0B /* AppDelegate.swift */; };
 		BF4C80A521C7957E0038AD0B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF4C80A421C7957E0038AD0B /* ViewController.swift */; };
 		BF4C80A821C7957E0038AD0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF4C80A621C7957E0038AD0B /* Main.storyboard */; };
@@ -14,6 +19,7 @@
 		BF4C80AD21C795810038AD0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF4C80AB21C795810038AD0B /* LaunchScreen.storyboard */; };
 		BF4C80B821C795820038AD0B /* KaisersWegpunkteTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF4C80B721C795820038AD0B /* KaisersWegpunkteTests.swift */; };
 		BF4C80C321C795820038AD0B /* KaisersWegpunkteUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF4C80C221C795820038AD0B /* KaisersWegpunkteUITests.swift */; };
+		BF4C80D121C798340038AD0B /* Berlin100.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF4C80D021C798340038AD0B /* Berlin100.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +40,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6793AE5921E38C11009BB30C /* ding.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ding.mp3; sourceTree = "<group>"; };
+		6793AE5B21E39945009BB30C /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		67EB4F0C21E39E40008E1F13 /* Station.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Station.swift; sourceTree = "<group>"; };
+		67EB4F0E21E4EB2F008E1F13 /* Pin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pin.swift; sourceTree = "<group>"; };
+		67EB4F1021E78DF9008E1F13 /* Toast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toast.swift; sourceTree = "<group>"; };
 		BF4C809F21C7957E0038AD0B /* KaisersWegpunkte.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KaisersWegpunkte.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF4C80A221C7957E0038AD0B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BF4C80A421C7957E0038AD0B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +58,7 @@
 		BF4C80BE21C795820038AD0B /* KaisersWegpunkteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KaisersWegpunkteUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF4C80C221C795820038AD0B /* KaisersWegpunkteUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaisersWegpunkteUITests.swift; sourceTree = "<group>"; };
 		BF4C80C421C795820038AD0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF4C80D021C798340038AD0B /* Berlin100.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Berlin100.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +109,15 @@
 		BF4C80A121C7957E0038AD0B /* KaisersWegpunkte */ = {
 			isa = PBXGroup;
 			children = (
+				6793AE5921E38C11009BB30C /* ding.mp3 */,
 				BF4C80A221C7957E0038AD0B /* AppDelegate.swift */,
 				BF4C80A421C7957E0038AD0B /* ViewController.swift */,
+				67EB4F1021E78DF9008E1F13 /* Toast.swift */,
+				BF4C80D021C798340038AD0B /* Berlin100.gpx */,
 				BF4C80A621C7957E0038AD0B /* Main.storyboard */,
+				6793AE5B21E39945009BB30C /* FirstViewController.swift */,
+				67EB4F0C21E39E40008E1F13 /* Station.swift */,
+				67EB4F0E21E4EB2F008E1F13 /* Pin.swift */,
 				BF4C80A921C795810038AD0B /* Assets.xcassets */,
 				BF4C80AB21C795810038AD0B /* LaunchScreen.storyboard */,
 				BF4C80AE21C795810038AD0B /* Info.plist */,
@@ -230,8 +248,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF4C80AD21C795810038AD0B /* LaunchScreen.storyboard in Resources */,
+				6793AE5A21E38C11009BB30C /* ding.mp3 in Resources */,
 				BF4C80AA21C795810038AD0B /* Assets.xcassets in Resources */,
 				BF4C80A821C7957E0038AD0B /* Main.storyboard in Resources */,
+				BF4C80D121C798340038AD0B /* Berlin100.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,7 +276,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				67EB4F0F21E4EB2F008E1F13 /* Pin.swift in Sources */,
+				67EB4F1121E78DF9008E1F13 /* Toast.swift in Sources */,
+				6793AE5C21E39945009BB30C /* FirstViewController.swift in Sources */,
 				BF4C80A521C7957E0038AD0B /* ViewController.swift in Sources */,
+				67EB4F0D21E39E40008E1F13 /* Station.swift in Sources */,
 				BF4C80A321C7957E0038AD0B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -433,12 +457,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5J87548UR9;
 				INFOPLIST_FILE = KaisersWegpunkte/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = IOS.KaisersWegpunkte;
+				PRODUCT_BUNDLE_IDENTIFIER = Beuth.Aufgabe7;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -450,12 +475,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5J87548UR9;
 				INFOPLIST_FILE = KaisersWegpunkte/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = IOS.KaisersWegpunkte;
+				PRODUCT_BUNDLE_IDENTIFIER = Beuth.Aufgabe7;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";

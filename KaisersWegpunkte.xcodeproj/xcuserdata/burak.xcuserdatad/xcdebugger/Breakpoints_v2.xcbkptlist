@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wegpunkte/ViewController.swift"
+            timestampString = "568563923.080518"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wegpunkte/ViewController.swift"
+            timestampString = "568563923.080633"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wegpunkte.ViewController.c2.getter : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;"
+                  moduleName = "Wegpunkte"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burak/Desktop/Studium/5.%20Semester%20(WiSe%202018-19)/WP2%20iOS-Entwicklung/Apps/Wegpunkte/Wegpunkte/ViewController.swift"
+                  timestampString = "567103620.444755"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wegpunkte.ViewController.c2.setter : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;"
+                  moduleName = "Wegpunkte"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burak/Desktop/Studium/5.%20Semester%20(WiSe%202018-19)/WP2%20iOS-Entwicklung/Apps/Wegpunkte/Wegpunkte/ViewController.swift"
+                  timestampString = "567103620.447094"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wegpunkte.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Wegpunkte.ViewController"
+                  moduleName = "Wegpunkte"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burak/Desktop/Studium/5.%20Semester%20(WiSe%202018-19)/WP2%20iOS-Entwicklung/Apps/Wegpunkte/Wegpunkte/ViewController.swift"
+                  timestampString = "567103620.449363"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "446">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wegpunkte.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Wegpunkte.ViewController&gt;"
+                  moduleName = "Wegpunkte"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burak/Desktop/Studium/5.%20Semester%20(WiSe%202018-19)/WP2%20iOS-Entwicklung/Apps/Wegpunkte/Wegpunkte/ViewController.swift"
+                  timestampString = "567103620.451088"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "417">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
